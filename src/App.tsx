@@ -1,4 +1,5 @@
 import './App.css';
+// import './assets/app';
 
 import Dashboard from './pages/Dashboard';
 import AddBillPage from './pages/AddBillPage';
